@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/ravikalla/springboot-mockito.svg?branch=master)](https://travis-ci.org/ravikalla/springboot-mockito)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb2e005ed39f41f8a4bb8fb007a47ad8)](https://www.codacy.com/app/ravikalla/springboot-mockito?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ravikalla/springboot-mockito&amp;utm_campaign=Badge_Grade)
+[![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 # Springboot with Mockito and JUnit
 Shows Mockito's capabilities while doing unit testing.
